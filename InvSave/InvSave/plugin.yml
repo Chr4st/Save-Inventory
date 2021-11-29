@@ -1,5 +1,5 @@
-name: iNxtInvSave
-main: iNxtInvSave\InvSave
-author: iNxtWilliqm
+name: InvSave
+main: InvSave\InvSave
 api: 3.0
 version: 1.0
+author: Chr4st
